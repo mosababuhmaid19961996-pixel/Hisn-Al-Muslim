@@ -1,0 +1,10 @@
+{
+  "name": "حصن المسلم - الأذكار",
+  "short_name": "حصن المسلم",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#0b6b63",
+  "lang": "ar",
+  "dir": "rtl"
+}
